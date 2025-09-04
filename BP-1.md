@@ -30,7 +30,7 @@ Larger companies making their software open source allows for developers outside
 ### Here's some cool projects that are open source:
 - [Godot](https://godotengine.org/) - a game engine for 2D or 3D games. Some people also use it to make more general purpose software
 - [Blender](https://www.blender.org/) - Powerful 3D modeling/animating software, as well as a video editor
-- [Blockbench](https://www.blockbench.net/) - a lighter lowpoly 3D modeling software, more commonly used in the minecraft modding niche ([though some artists can make some really cool stuff with it outside of minecraft](https://x.com/violxiv/status/1942344562380292176))
+- [Blockbench](https://www.blockbench.net/) - a lighter lowpoly 3D modeling software, more commonly used in the minecraft modding niche ([though some artists can make some really cool stuff with it outside of minecraft](https://twitter.com/violxiv/status/1942344562380292176))
 - [Krita](https://krita.org/) - a digital illustration software with some animation functionality. Basically free photoshop for digital artists. I used to use this, its pretty good!
 - [OpenToonz](https://opentoonz.github.io) - A 2D animation software. Studio Ghibli uses a customized version of this in their workflow
 - [GIMP](https://www.gimp.org/) - an image manipulator
